@@ -1,6 +1,6 @@
-# Code repository for EBA study: Exploring the Potential of Data Science Methods for within the Field of International Development Cooperation
+# Code repository for EBA study: Exploring the Potential of Data Science Methods within the Field of International Development Cooperation
 
-This repository contains methods and classes for processing the analytical framework in appendix 1 of eba_application_200413.pdf.
+This repository contains methods and classes for processing the analyzing the questions phrased in the study.
 
 The following packages are contained within the project:
 
