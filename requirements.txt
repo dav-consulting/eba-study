@@ -1,0 +1,20 @@
+click==7.1.2
+fuzzywuzzy==0.18.0
+nltk==3.5
+pymupdf==1.17.5
+python-levenshtein==0.12.0
+pandas==1.0.5
+scrapy==2.3.0
+spacy==2.3.2
+black==19.10b0
+pylint==2.5.3
+xlrd==1.2.0
+pycountry==20.7.3
+country_converter==0.6.7
+pytest==6.0.1
+openpyxl==3.0.5
+plotly==4.12.0
+streamlit==0.81.1
+
+# Note sentence-transformers requires transformers version 3.1 while spacy-transformers rlies on version <2.9
+transformers==2.8

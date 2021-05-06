@@ -1,0 +1,32 @@
+{
+    "editor.formatOnSave": true,
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "~/anaconda3/envs/eba/bin/pylint",
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=C0103"
+    ],
+    "markdown-preview-enhanced.pandocArguments": "--number-sections",
+    "markdown-preview-enhanced.usePandocParser": true,
+    "[markdown]": {
+        "editor.wordWrap": "on",
+    },
+    "editor.wordWrap": "on",
+    "spellright.ignoreFiles": [
+        "*.py",
+        "**/.gitignore",
+        "**/.spellignore"
+    ],
+    "spellright.documentTypes": 
+    [
+        "html",
+        "markdown",
+        "latex",
+        "plaintext",
+    ],
+    "spellright.language": ["en"],
+    "spellright.suggestionsInHints": true,
+    "spellright.recheckOnSave": true
+}
